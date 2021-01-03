@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on AlosarBlog</title>
+    <link>https://alosarjos.github.io/post/</link>
+    <description>Recent content in Posts on AlosarBlog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://alosarjos.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bad times</title>
+      <link>https://alosarjos.github.io/posts/bad-times/</link>
+      <pubDate>Sat, 21 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alosarjos.github.io/posts/bad-times/</guid>
+      <description>Things have gone bad, and somehow I think this should be also reflected here. Things have gotten worse personally and I couldn&amp;rsquo;t find the will to keep working and reading about Rust. Thankfully because of the time I spend moving to work and going back I&amp;rsquo;ve been reading a book about what means to focus and to work deeply. Hopefully tyhis will help somehow&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Almost rusted</title>
+      <link>https://alosarjos.github.io/posts/almost-rusted/</link>
+      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alosarjos.github.io/posts/almost-rusted/</guid>
+      <description>Last chatpers of the book remain&amp;hellip; The final multithread server project looks really fun to make, can&amp;rsquo;t wait for it. I still need to complete the advanced features chapter (If Smart pointers and concurrency weren&amp;rsquo;t advance enough&amp;hellip;).
+Once this is finished I still don&amp;rsquo;t know if going for my own personal project, or if going to Rust by example. Will check later the contents of this book.
+Anyways, while not being even close to know Rust, one can see so easily why people like it&amp;hellip; Hoping I can get a job where I can use it!</description>
+    </item>
+    
+    <item>
+      <title>Getting rusty</title>
+      <link>https://alosarjos.github.io/posts/getting-rusty/</link>
+      <pubDate>Fri, 06 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alosarjos.github.io/posts/getting-rusty/</guid>
+      <description>This first week has been pretty productive, but still I need to get better on reducing the time I take for a break. I don&amp;rsquo;t know if people do actually spend more than 2 hours just reading in front of their screens whitout their eyes itching.
+I got up to chapter 11 on the Rust book and I either it&amp;rsquo;s contents have been updated since the last time I read it or I&amp;rsquo;m kinda getting details I didn&amp;rsquo;t on previous attemps.</description>
+    </item>
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://alosarjos.github.io/posts/hello-world/</link>
+      <pubDate>Wed, 04 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://alosarjos.github.io/posts/hello-world/</guid>
+      <description>This is the first step into learning the technologies I want to learn. The first step into a better self organization and discipline. If this blog lives, then my journey is going through the right way, if this is dead, then that means I failed.
+I&amp;rsquo;ve worked for quite some time on an Android app called BackLogger, sadly it never got out from beta, and befcause of the deprecation of it&amp;rsquo;s external APIs and the change in the authentication for the data retrieval I&amp;rsquo;m forced to redo quite some work on it.</description>
+    </item>
+    
+  </channel>
+</rss>
