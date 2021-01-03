@@ -5,6 +5,21 @@
         <link>https://alosarjos.github.io/</link>
         <description>Recent content on AlosarBlog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://alosarjos.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language>
+        <lastBuildDate>Sun, 03 Jan 2021 12:00:00 +0200</lastBuildDate><atom:link href="https://alosarjos.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Getting prepared for this year</title>
+        <link>https://alosarjos.github.io/posts/getting-prepared/</link>
+        <pubDate>Sun, 03 Jan 2021 12:00:00 +0200</pubDate>
+        
+        <guid>https://alosarjos.github.io/posts/getting-prepared/</guid>
+        <description>&lt;p&gt;I&amp;rsquo;m getting prepared for what is ahead. I hope this year I&amp;rsquo;ll be able to redo
+the BackLogger project with a new Rust based backend and a refreshed UI on Flutter.&lt;/p&gt;
+&lt;p&gt;But thing is, lots of books are also showing up on my TODO list. And on top of that, I just found some amazing web pages for making some exercises to improve
+my clean code capabilities and my Rust level.&lt;/p&gt;
+&lt;p&gt;So I&amp;rsquo;m guessing that for theses days, I will just find a way to organize my time
+for all these tasks. Hoping some known apps such as Todoist can help me with it.&lt;/p&gt;
+</description>
+        </item>
+        
     </channel>
 </rss>
