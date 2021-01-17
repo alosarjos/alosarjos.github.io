@@ -6,7 +6,18 @@
     <description>Recent content in Posts on AlosarBlog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 12:00:00 +0200</lastBuildDate><atom:link href="https://alosarjos.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Jan 2021 12:00:00 +0200</lastBuildDate><atom:link href="https://alosarjos.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wayland and Streaming</title>
+      <link>https://alosarjos.github.io/posts/wayland-streaming/</link>
+      <pubDate>Sun, 17 Jan 2021 12:00:00 +0200</pubDate>
+      
+      <guid>https://alosarjos.github.io/posts/wayland-streaming/</guid>
+      <description>Today I was trying to stream some gamplay for my friends from Linux, especifically, from an Arch install on Gnome + Wayland. I ended up throwing too many hours trying to compile OBS.
+So I tried to stream at 60 FPS, but no matter what, the streaming/recording was skipping frames.
+I assume it could be because of the damn Wayland/Xwayland thing, so I relogin in the X session, try it and it works nicely.</description>
+    </item>
+    
     <item>
       <title>Getting prepared for this year</title>
       <link>https://alosarjos.github.io/posts/getting-prepared/</link>
